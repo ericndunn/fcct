@@ -1,0 +1,7 @@
+variant: fcos
+version: 1.0.0
+passwd:
+  users:
+    - name: core
+      ssh_authorized_keys:
+        - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDgsBCp/bM0RLMLq7efYxfbiHlJtD8kNbpawZfkilsFx473iE+ycd0B7nRRJP1C4dIkIVwtxjT80IJXgGgE3/EW/5imHRdoUUR1URiS2mLQgSY0rkhgvKlYFrwYuDGJ/GImkqc4dmiqt/TAMzb2ekzdyZPoGXv7xM8/YqA9dt+MJ21O1fGQr+7dVVbvTJRMwY9Tl43cPeXvX/EtZ0KML7A6jmMaz7k5Cew0VgSJl5emlUy+JA34zDHNbsv9hXVjYx+Qt5d+SC/4CiEpmGUgpRlahXCtjSEDdz+aXZLy5WvSDB/q1S5gTEN3A5XzLz+wsdLDmEzYD7TEqAjGGt5NKviL ericndunn@centos7laptop.localdomain
